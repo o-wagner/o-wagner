@@ -1,9 +1,7 @@
 ## Olá! 👋
-
-- 🌱 Estou atualmente estudando React e React Native
-- 👨🏽‍💻 Me interesso pela área de Desenvolvimento Web
-- 📫 Contate-me no email: owagner.oliveira@hotmail.com
+- 👨🏽‍💻 Web Developer
 - 🎵 Amante da música
+- 📫 Contate-me no email: owagner.oliveira@hotmail.com
 
 <div>
   <a href="https://github.com/o-wagner">
